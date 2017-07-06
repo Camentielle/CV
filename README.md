@@ -1,12 +1,12 @@
-## Your Name
+## Camelia El K
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a French Londoner and I've worked several years in the wine industry and in Marketing. I've recently started to learn code thanks to Makers Academy. I've created a couple of programs on Ruby and a puzzle on Scratch. I want to learn more Ruby in the next weeks and then Python.  I want to find a dev camp to join in August or September.
 
 ## Skills
 
-#### This Skill
+#### Ruby
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I can write simple Ruby programs. My main quality is that I write clean code, with good indentations, clear comments and exhaustive READMEs
 
 - Experience
 - Achievements
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy precourse (start_date to end_date)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,9 +32,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Burgundy School of Business (start_date to end_date)
 
-- Subject, any specialisms
+- Masters in Marketing applied to Consumer Behavior
 - Grade
 - Other cool stuff
 
@@ -42,7 +42,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
+**Oracle** (start_date to end_date)    
 *Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Kantar - TNS** (start_date to end_date)   
+*Your job title*
+**  
