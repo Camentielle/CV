@@ -38,6 +38,7 @@ I can write simple Ruby programs. My main qualities are that I write clean code,
 **Cool Stuff**
 
 Deliveroo driver
+
 Tour Guide
 
 ## Projects
