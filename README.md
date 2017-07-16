@@ -1,12 +1,19 @@
 ## Camelia El K
 
-I'm a French Londoner and I've worked several years in the wine industry and in Marketing. I've recently started to learn code thanks to Makers Academy. I've created a couple of programs on Ruby and a puzzle on Scratch. I want to learn more Ruby in the next weeks and then Python.  I want to find a dev camp to join in August or September. After that I would like to either work part time as a junior developer in London or remotely.
+I'm a French Londoner and I've worked several years in the wine industry and in Consumer research / Marketing. I've recently started to learn code. I've created a couple of programs on Ruby and a puzzle on Scratch.
+
+I like to understand how things work and also to build things from scratch. Coding offers me both the mental challenge and the satisfaction of having made something entirely by myself.
+
+Over the next months I'm interested in fleshing out my understanding of Ruby by working together with a couple of people on building something new and useful. I'm very curious and customer oriented and I have many ideas of apps, websites or simple software.
+
 
 ## Developer Skills
 
 #### Ruby
 
-I can write simple Ruby programs. My main qualities are that I write clean code, with good indentations, clear comments and exhaustive READMEs
+I can write simple Ruby programs. My main qualities are that I write readable code and good READMEs.
+
+You can check out some of my solved katas at my [Codewars profile](https://www.codewars.com/users/Camentielle).
 
 
 ## Education
@@ -18,11 +25,11 @@ I can write simple Ruby programs. My main qualities are that I write clean code,
 - TDD
 - Ruby
 
+
 #### Burgundy School of Business (2007-2010)
 
-- Masters in Marketing applied to Consumer Behavior
+- Masters in Marketing applied to Consumer Behaviour
 - Thesis: [Impact Of Rebate Schemes On Customer Satisfaction](https://drive.google.com/file/d/0B6Ie4YJ_zMsHMHlBb0pRQXlwazQ/view?usp=sharing)
-
 
 
 ## Experience
@@ -35,11 +42,13 @@ I can write simple Ruby programs. My main qualities are that I write clean code,
 - *Sales and marketing at Roberson Wine*
 - *Junior Product Manager at Bouchard Pere et Fils*
 
-**Cool Stuff**
+**Other Jobs**
 
-Deliveroo driver
+- Decluttering Consultant
+- Tour Guide
+- Deliveroo Driver
 
-Tour Guide
+
 
 ## Projects
 
@@ -48,3 +57,5 @@ Tour Guide
 [Terminal based student directory created from scratch with Ruby](https://github.com/Camentielle/student-directory)
 
 [Detective game using the terminal](https://github.com/Camentielle/clmystery)
+
+[Ruby Kickstart](https://github.com/Camentielle/ruby-kickstart)
