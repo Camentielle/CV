@@ -34,15 +34,15 @@ You can check out some of my solved katas at my [Codewars profile](https://www.c
 
 ## Experience
 
-**Marketing stuff** (2014 to 2016)    
+**Marketing** (2014 to 2016)    
 - *Digital Optimization Consultant at Oracle*
 - *Quantitative sales analysis at Kantar TNS*
 
-**Wine stuff** (2009 to 2013)
+**Wine** (2009 to 2013)
 - *Sales and marketing at Roberson Wine*
 - *Junior Product Manager at Bouchard Pere et Fils*
 
-**Other Jobs**
+**Other**
 
 - Decluttering Consultant
 - Tour Guide
